@@ -4,14 +4,14 @@
 
 資料結構: <br> 
 
-    > Big-O
+> Big-O
     
     
 　　* Big-O : c = 最大次方項的係數+1 <br> 
 　　* Omega( Ω ) : c = 最大次方項的係數 <br> 
 　　* Theta( θ ) : c1(下限) = 最大次方項的係數, c2(上限) = 最大次方項的係數+1 <br> 
 
-    > matrix
+> matrix
 
 
 　　* 一維串列 : `A(i) = a0 + i*d`, d為每個元素所站的空間 <br> 
@@ -19,7 +19,7 @@
 　　* 二維串列(行為主) :  `A(i,j) = a0 + j*u1*d + i*d` <br>
 
 
-    > stack、queue
+> stack、queue
 
 
 　　* 堆疊 : 有序串列, 線性串列, 加入和刪除都在同一端(top),先進後出 , top初值為-1 <br>
