@@ -10,23 +10,23 @@
 
 3.  開啟httpd測試是否可以用IPV6
 
-   ```
+   ```sh
    systemctl start httpd
    ```
 
 4. 安裝 epel-release mod_ssl certbot
 
-   ```
-   yum install epel-release mod_ssl certbot
+   ```sh
+   yum install epel-release mod_ssl certbot systemctl start httpd
    ```
 
 5.   申請IPV6的憑證
 
-   ```
+   ```sh
    certbot certonly --webroot -w /var/www/html -d royroy123.dynv6.net --email s110910519@student.nqu.edu.tw --agree-tos
    ```
 
-   ```
+   ```sh
    certbot --apache -d roy123.dynv6.net
    ```
    
@@ -34,7 +34,7 @@
 
 6. 成功後的網站可用https連線而不會出現不安全
 
-   ```
+   ```sh
    https://roy123.dynv6.net/webdav/hi.txt
    ```
 
@@ -51,17 +51,17 @@
 
 1. 找到httpd.conf文件並修改
 
-   ```
+   ```sh
    cd /etc/httpd/conf
    ```
 
-   ```
+   ```sh
    vim httpd.conf
    ```
 
    在<Listen 80>處新增以下配置
 
-   ```
+   ```sh
    Listen 80
    
    <VirtualHost *:80>   
@@ -74,7 +74,7 @@
 
 2. 重新啟動httpd
 
-   ```
+   ```sh
    systemctl restart httpd
    ```
 
