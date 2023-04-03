@@ -1,0 +1,15 @@
+### 重啟NAT
+
+
+
+1. 打開 Windows 的服務管理器
+
+   ```
+   Windows + R
+   ```
+
+   ```
+   services.msc
+   ```
+
+2. 尋找 `VMware NAT Service` 服務。
