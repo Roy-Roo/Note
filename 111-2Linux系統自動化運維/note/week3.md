@@ -30,7 +30,7 @@
    certbot --apache -d roy123.dynv6.net
    ```
    
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week3\https-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week3/https-1.jpg)
 
 6. 成功後的網站可用https連線而不會出現不安全
 
@@ -38,14 +38,14 @@
    https://roy123.dynv6.net/webdav/hi.txt
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week3\https-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week3/https-2.jpg)
 
 
 
 ***補充***
 
 若是遇到以下問題的解決方法
-![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week3\https-3.jpg)
+![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week3/https-3.jpg)
 
 
 
