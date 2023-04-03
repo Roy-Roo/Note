@@ -21,7 +21,7 @@
 
    * [測試](https://test-ipv6.com/index.html.zh_TW)
 
-   * [成功範例](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week1/week1-ipv6-1.jpg)
+   * 成功範例 ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week1/week1-ipv6-1.jpg)
 
 4.  設定linux電腦為橋接器
 
