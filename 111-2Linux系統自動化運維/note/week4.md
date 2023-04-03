@@ -8,7 +8,7 @@
 
 1.  下載 ***openai-translator-chrome-extension*** 並解壓縮[(載點)](https://github.com/yetone/openai-translator/releases/download/v0.0.15/openai-translator-chrome-extension-0.0.15.zip)
 2.  開啟 ***Chrome*** -> ***設定*** -> ***擴充功能*** -> ***開發人員模式開啟***  -> ***載入未封裝項目***  -> ***選擇解壓縮的資料夾***
-3.  點選 **Chrome** 右上角的擴充功能圖示將 ***OpenAI Translator*** 固定並開啟![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week4\OpenAI Translator-1.jpg)
+3.  點選 **Chrome** 右上角的擴充功能圖示將 ***OpenAI Translator*** 固定並開啟![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week4/OpenAI%20Translator-1.jpg)
 4.  開啟 ***OpenAI*** 的 [API keys](https://platform.openai.com/account/api-keys)
 5.  點選 ***Create new secert key***
 6.  將新增的 API key 複製貼上到 ***Chrome*** 右上角的擴充功能的 ***OpenAI Translator***  中
@@ -21,7 +21,7 @@
 
 1.  註冊 LINE 免費開發者帳號，[LINE Developers LINE 開發者平台](https://developers.line.biz/zh-hant/) ，使用 LINE 帳號登入即可
 
-2.  選擇 ***Create a Messaging API channel*** ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week4\ChatGPT整合到Line Bot-1.jpg)
+2.  選擇 ***Create a Messaging API channel*** ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week4/ChatGPT%E6%95%B4%E5%90%88%E5%88%B0Line%20Bot-1.jpg)
 
 3.  在創建頻道頁面（Create a new channel）依照底下提示輸入：
 
@@ -216,4 +216,4 @@
 
 19. 完成後會出現.str檔，用 winscp 將其複製到桌面，並使用 VLC media player 播放影片即可
 
-![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week4\為影片自動上字幕-1.jpg)
+![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week4/%E7%82%BA%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E4%B8%8A%E5%AD%97%E5%B9%95-1.jpg)
