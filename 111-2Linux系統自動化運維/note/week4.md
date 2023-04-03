@@ -68,7 +68,7 @@
 
 10. 點擊右上角「**Continue to Dashboard**」進入儀表板設定，直接點入第一個 **DEPLOYMENT 連結**，複製**應用程式網址**（Domains），例如 ***https://gpt-rust.vercel.app***
 
-11. 回到 LINE 頻道頁面，切換到「**Messaging API**」分頁，找到 **Webhook settings 的 Webhook URL 設定**，點擊「**Edit**」按鈕，直接貼上「https://gpt-rust.vercel.app」，提醒網址最後加入「/webhook」路徑，完整 Webhook URL 路徑為「https://gpt-rust.vercel.app/webhook」，最後點「**Update**」按鈕套用
+11. 回到 LINE 頻道頁面，切換到「**Messaging API**」分頁，找到 **Webhook settings 的 Webhook URL 設定**，點擊「**Edit**」按鈕，直接貼上「https://gpt-rust.vercel.app」 ，提醒網址最後加入「/webhook」路徑，完整 Webhook URL 路徑為「https://gpt-rust.vercel.app/webhook」 ，最後點「**Update**」按鈕套用
 
 12. 完成 Webhook 網址設定後，點一下「**Verify**」檢查是否能呼叫成功，只有 **Success 代表網址輸入正確**，要是顯示其他錯誤代表你複製的網址或沒有將路徑填寫完整
 
