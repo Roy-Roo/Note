@@ -11,7 +11,7 @@
 3.  開啟httpd測試是否可以用IPV6
 
    ```sh
-   systemctl start httpd
+   yum install epel-release mod_ssl certbot systemctl start httpd
    ```
 
 4. 安裝 epel-release mod_ssl certbot
