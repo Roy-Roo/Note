@@ -82,7 +82,7 @@
    docker ps -a
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week6\docker-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week6/docker-1.jpg)
 
 7. 刪除已停止的 Docker 容器
 
@@ -127,7 +127,7 @@
     docker ps
     ```
 
-    ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week6\docker-2.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week6/docker-2.jpg)
 
 13. 產生新的鏡像檔
 
@@ -212,7 +212,7 @@
    python test.py
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week6\docker-3.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week6/docker-3.jpg)
 
 > 利用 Docker 架設網頁伺服器
 
