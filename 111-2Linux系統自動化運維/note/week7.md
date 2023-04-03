@@ -33,7 +33,7 @@
    ifconfig
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-1.jpg)
 
 > 新增網頁到網站中
 
@@ -47,7 +47,7 @@
    docker exec -it f61 bash
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-2.jpg)
 
 2. 進入到容器內的 /var/www/html 資料夾
 
@@ -61,7 +61,7 @@
    echo "Hello" > hi.htm
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-3.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-3.jpg)
 
 4. 在瀏覽器上輸入本地端的IP以及埠號(8000)和/hi.htm
 
@@ -103,7 +103,7 @@
    docker run -d -p 8000:80 -v /home/user/myweb:/var/www/html --name web1 centos:web /usr/sbin/apachectl -DFOREGROUND
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-4.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-4.jpg)
 
 6. 在瀏覽器上輸入本地端的IP以及埠號(8000)和/hi.htm
 
@@ -123,7 +123,7 @@
    docker run -d -p 8002:80 -v /home/user/myweb:/var/www/html --name web3 centos:web /usr/sbin/apachectl -DFOREGROUND
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-5.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-5.jpg)
 
 > 利用腳本來創建多個具有相同功能的網頁
 
@@ -264,7 +264,7 @@
    http://192.168.198.134:8080/hi.htm
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-6.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-6.jpg)
 
 ### Docker Hub
 
@@ -291,7 +291,7 @@
    docker tag 541 royroy1215/centos:web
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-7.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-7.jpg)
 
 4. 將鏡像檔備份到雲端
 
@@ -299,4 +299,4 @@
    docker push royroy1215/centos:web
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week7\dockerserver-8.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week7/dockerserver-8.jpg)
