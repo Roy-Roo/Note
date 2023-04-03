@@ -86,7 +86,7 @@
 
 9. 打開windows的網路磁碟機，連上linux的ip位置，輸入http:\192.168.160.226即可找到
 
-
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week2/webdav-2.jpg)
 
 
 
