@@ -1,6 +1,10 @@
 # 學習重點
 
-
+| 欄位       | 內容                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 第一週     | [IPV6](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week1.md#ipv6)                                                       |
+| 第二週     | 19                                                           |
+| 第三週     | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php) |
 
 # 注意事項
 
