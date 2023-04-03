@@ -70,6 +70,7 @@
 
    ```sh
    getenforce
+   ```
 
 
 
