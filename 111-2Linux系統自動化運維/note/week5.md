@@ -91,7 +91,7 @@
    netstat -tunlp | grep 53
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week5\DNS Server - 1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week5/DNS%20Server%20-%201.jpg)
 
    ```sh
    # 被使用的話使用以下指令刪除
@@ -164,7 +164,7 @@
    # 前為想查詢的網站 、 後為虛擬機的IP位址
    ```
 
-   ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week5\DNS Server - 2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week5/DNS%20Server%20-%202.jpg)
 
 > 管理網域 : 正向解析
 
@@ -232,7 +232,7 @@
     # 前為想查詢的網站 、 後為詢問的伺服器位址(虛擬機的IP)
     ```
 
-    ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week5\DNS Server - 3.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week5/DNS%20Server%20-%203.jpg)
 
 > 管理網域 : 反向解析
 
@@ -292,4 +292,4 @@
     # 前為想查詢的網站 、 後為詢問的伺服器位址(虛擬機的IP)
     ```
 
-    ![](D:\大學\大三\大三下\Linux系統自動化運維\note\picture\week5\DNS Server - 4.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week5/DNS%20Server%20-%204.jpg)
