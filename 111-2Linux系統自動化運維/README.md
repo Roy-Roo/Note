@@ -20,7 +20,81 @@
 
 # 需安裝套件
 
-* 方法 1(不建議使用)
+* httpd
+
+   ```sh
+   yum install httpd -y
+   ```
+
+* epel-release
+
+   ```sh
+   yum install epel-release -y
+   ```
+
+* epel-release mod_ssl certbot
+
+   ```sh
+   yum install epel-release mod_ssl certbot -y
+   ```
+   
+* Miniconda
+
+   ```sh
+   wget https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Linux-x86_64.sh
+   ```
+   
+* git
+
+   ```sh
+   yum install git -y
+   ```
+   
+* gftp
+
+   ```sh
+   yum install gftp -y
+   ```
+   
+* RPM Fusion 免費庫
+
+   ```sh
+   sudo yum localinstall --nogpgcheck https://download1.rpmfusion.org/free/el/rpmfusion-free-release-7.noarch.rpm
+   ```
+   
+* ffmpeg
+
+   ```sh
+   sudo yum install ffmpeg ffmpeg-devel
+   ```   
+   
+* bind、bind-chroot、bind-utils 
+
+   ```sh
+   yum install bind bind-chroot bind-utils -y
+   ```
+      
+* Docker
+
+   ```sh
+   yum install -y yum-utils
+   ```
+   ```sh
+   yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+   ``` 
+   ```sh
+   yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+   ```   
+   
+* haproxy
+
+   ```sh
+   yum install haproxy openssl-devel -y
+   ```    
+   
+   
 
 # 注意事項
 
