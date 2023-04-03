@@ -2,7 +2,7 @@
 
 
 
-### 重啟NAT
+### 重啟 VMware 的 NAT
 
 
 
