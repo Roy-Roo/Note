@@ -12,9 +12,7 @@
   2. 若沒有，再檢查 DNS cache 進行搜尋，若有查詢過，在本地端會有一份備份
   3. 若沒有，才會用 DNS Server 進行查詢  www.a.com 的IP
 
-
-
-  * DNS Server 使用的埠號為 53 ，使用的協定為 UDP
+* DNS Server 使用的埠號為 53 ，使用的協定為 UDP
 
 * 每一台在網路上的電腦都有一個IP位址
 * Domain Name
