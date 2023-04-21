@@ -104,8 +104,28 @@
 
    ```sh
    yum install haproxy openssl-devel -y
-   ```    
+   ```  
    
+   * JumpServer
+
+   ```sh
+   git clone --depth=1 https://github.com/wojiushixiaobai/Dockerfile.git
+   ```  
+   ```sh
+   cd Dockerfile
+   ```  
+   ```sh
+   cp config_example.conf .env
+   ```
+   ```sh
+   docker-compose -f docker-compose-network.yml -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f docker-compose-init-db.yml up -d
+   ```  
+   ```sh
+   docker exec -i jms_core bash -c './jms upgrade_db'
+   ```  
+   ```sh
+   docker-compose -f docker-compose-network.yml -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f docker-compose.yml up -d
+   ```  
    
 
 # 注意事項
