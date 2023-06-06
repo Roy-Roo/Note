@@ -52,7 +52,7 @@
    ./line_notify.sh test "Sent from my Centos7"
    ```
 
-   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix LINE Notify-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix%20LINE%20Notify-1.jpg)
 
 * Zabbix Ui 設定
 
@@ -123,7 +123,7 @@
    cat /dev/urandom | md5sum
    ```
 
-   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix LINE Notify-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix%20LINE%20Notify-2.jpg)
 
 
 
