@@ -72,7 +72,7 @@
    docker ps
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week9\dockerserver-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week9/dockerserver-1.jpg)
 
 10. 查看IP
 
@@ -84,7 +84,7 @@
 
     * 範例 : 192.168.198.134:8888
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week9\dockerserver-2.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week9/dockerserver-2.jpg)
 
 
 
@@ -161,7 +161,7 @@
 
     * 範例 : 192.168.198.134:8899
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week9\dockercompose-1.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week9/dockercompose-1.jpg)
 
 11. 停止 docker-compose
 
@@ -208,7 +208,7 @@
    docker-compose -f docker-compose-network.yml -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f docker-compose.yml up -d
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week9\jumpserver-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week9/jumpserver-1.jpg)
 
 2. 確認 80 埠沒被占用
 
@@ -242,7 +242,7 @@
    密碼 : 123456
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week9\jumpserver-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week9/jumpserver-2.jpg)
 
 > 系統簡介
 
