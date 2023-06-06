@@ -10,13 +10,14 @@
 | [第六週](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week6.md#week6)     | [Docker](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week6.md#docker) |
 | [第七週](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week7.md#week7)     | [Docker](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week7.md#docker) 、 [負載均衡器(Load balancer)](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week7.md#%E8%B2%A0%E8%BC%89%E5%9D%87%E8%A1%A1%E5%99%A8load-balancer)  、 [Docker Hub](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week7.md#docker-hub)|
 | 第八週     | 放假 |
-| 第九週     |  |
-| 第十週     |  |
-| 第十一週     |  |
-| 第十二週     |  |
-| 第十三週     |  |
-| 第十四週     |  |
-| 第十五週     |  |
+| [第九週](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week9.md)     | [DockerFile](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week9.md#dockerfile) 、 [Docker-Compose](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week9.md#docker-compose) 、 [JumpServer](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week9.md#jumpserver) |
+| [第十週](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/week10.md#week10)     |  |
+| [第十一週]     |  |
+| [第十二週]     |  |
+| [第十三週]     |  |
+| [第十四週]    |  |
+| [第十五週]     |  |
+| [第十六週]     |  |
 
 # 需安裝套件
 
