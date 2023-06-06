@@ -62,7 +62,7 @@
    echo "hello world" | mail -v -s "Test1234" s110910519@student.nqu.edu.tw 
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-1.jpg)
 
 > zabbix 做監控系統
 
@@ -218,7 +218,7 @@
     ifconfig
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-2.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-2.jpg)
 
 * Zabbix 設定
 
@@ -246,7 +246,7 @@
    Password : zabbix
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-3.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-3.jpg)
 
 * Client端(要兩台)
 
@@ -290,7 +290,7 @@
    systemctl status zabbix-agent
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-4.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-4.jpg)
 
 6. 查看 Zabbix 使用的 Port
 
@@ -298,7 +298,7 @@
    netstat -tunlp | grep zabbix
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-5.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-5.jpg)
 
 7. Configuration -> Hosts -> Create -> 以下設定好後按 Add
 
@@ -318,9 +318,9 @@
    Link new templates : Template OS Linux by Zabbix agent
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-6.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-6.jpg)
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-7.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-7.jpg)
 
 8. 重複第七步將第三台虛擬機放到 Zabbix 上 ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-8.jpg)
 
@@ -338,8 +338,8 @@
    zabbix_get -s 192.168.198.133 -p 10050 -k "system.hostname"
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-9.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-9.jpg)
 
    * ZBX 要亮起綠色的才有成功
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week11\zabbix-10.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week11/zabbix-10.jpg)
