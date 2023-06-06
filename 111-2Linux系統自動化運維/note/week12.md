@@ -54,7 +54,7 @@
    ```
 
 3. 點選 CPU utilization rate -> test -> Get value
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week12\zabbix-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week12/zabbix-1.jpg)
 
 4. Configuration -> Hosts -> 要監控主機的 Triggers 欄位 -> Create trigger
 
@@ -83,11 +83,11 @@
 
    * 在 Monitoring -> Dashboard
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week12\zabbix-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week12/zabbix-2.jpg)
 
    * 在 Monitoring -> Latest data -> Centos7-2的 Graph
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week12\zabbix-3.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week12/zabbix-3.jpg)
 
 * 以下在 Server 端做
 
@@ -191,10 +191,10 @@
     ```
 
 17. 到信箱查看是否有寄信
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week12\zabbix-4.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week12/zabbix-4.jpg)
 
 18. 回到 Cilent 端使用 Ctrl + C 停止測試再回信箱查看
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week12\zabbix-5.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week12/zabbix-5.jpg)
 
     
