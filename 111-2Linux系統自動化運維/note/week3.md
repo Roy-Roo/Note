@@ -17,7 +17,7 @@
 4. 安裝 epel-release mod_ssl certbot
 
    ```sh
-   yum install epel-release mod_ssl certbot systemctl start httpd
+   yum install epel-release mod_ssl certbot
    ```
 
 5.   申請IPV6的憑證
