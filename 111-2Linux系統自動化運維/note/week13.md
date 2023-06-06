@@ -52,7 +52,7 @@
    ./line_notify.sh test "Sent from my Centos7"
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix LINE Notify-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix LINE Notify-1.jpg)
 
 * Zabbix Ui 設定
 
@@ -123,7 +123,7 @@
    cat /dev/urandom | md5sum
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix LINE Notify-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix LINE Notify-2.jpg)
 
 
 
@@ -161,9 +161,9 @@
    zabbix_get -s 192.168.198.136 -p 10050 -k "test_param"
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix-1.jpg)
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix-2.jpg)
 
 > 查看有多少個連線到這台設備
 
@@ -214,9 +214,9 @@
 
 2. Monitoring -> Hosts -> Centos7-3 -> Latest data -> General 的  httpd_isrunning 項的 Graph
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix-3.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix-3.jpg)
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix-4.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix-4.jpg)
 
 
 
