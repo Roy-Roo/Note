@@ -107,7 +107,7 @@
    yum install haproxy openssl-devel -y
    ```  
    
-   * JumpServer
+* JumpServer
 
    ```sh
    git clone --depth=1 https://github.com/wojiushixiaobai/Dockerfile.git
@@ -126,6 +126,42 @@
    ```  
    ```sh
    docker-compose -f docker-compose-network.yml -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f docker-compose.yml up -d
+   ``` 
+      
+* Zabbix
+
+   ```sh
+   yum install mariadb-server mariadb -y
+   ```     
+   ```sh
+   rpm -Uvh https://repo.zabbix.com/zabbix/5.0/rhel/7/x86_64/zabbix-release-5.0-1.el7.noarch.rpm
+   ```     
+   ```sh
+   yum clean all
+   ```     
+   ```sh
+   yum install zabbix-server-mysql zabbix-agent -y
+   ```     
+   ```sh
+   yum install centos-release-scl -y
+   ```      
+   ```sh
+   vim /etc/yum.repos.d/zabbix.repo
+   ```       
+   ```sh
+   yum install zabbix-web-mysql-scl zabbix-apache-conf-scl -y
+   ```         
+   ```sh
+   yum install https://repo.zabbix.com/zabbix/5.0/rhel/7/x86_64/zabbix-release-$ 5.0-1.el7.noarch.rpm -y
+   ```        
+   ```sh
+   yum install vim zabbix-agent zabbix-sender -y
+   ```  
+      
+* Ansible
+
+   ```sh
+   yum install ansible -y
    ```  
    
 
