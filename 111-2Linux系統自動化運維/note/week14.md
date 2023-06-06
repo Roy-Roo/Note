@@ -50,7 +50,7 @@
    ls
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-1.jpg)
 
 8. 返回 tmp 資料夾
 
@@ -84,7 +84,7 @@
     rm c
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-2.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-2.jpg)
 
 13. 切換到 root
 
@@ -100,7 +100,7 @@
     rm c
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-3.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-3.jpg)
 
 * 新增高級屬性(連root都無法更動)
 
@@ -126,7 +126,7 @@
     vim a
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-4.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-4.jpg)
 
 18. 刪除檔案 a
 
@@ -136,7 +136,7 @@
     rm a
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-5.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-5.jpg)
 
 19. 將檔案 a 的 i 鎖移除
 
@@ -165,9 +165,9 @@
     echo "123" >> a
     ```
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-6.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-6.jpg)
 
-    ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-7.jpg)
+    ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-7.jpg)
 
 * 將 testdir 資料夾下的檔案全部加上 i 鎖
 
@@ -252,7 +252,7 @@
    echo "321" >> a
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Linux高級檔案管理設定-8.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Linux%E9%AB%98%E7%B4%9A%E6%AA%94%E6%A1%88%E7%AE%A1%E7%90%86%E8%A8%AD%E5%AE%9A-8.jpg)
 
 * 針對特定群組
 
@@ -319,7 +319,7 @@
    ssh root@centos7-3
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Ansiable-1.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Ansible-1.jpg)
 
 7. 安裝 ansible
 
@@ -353,7 +353,7 @@
    ansible servers -m ping
    ```
 
-   ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week14\Ansible-2.jpg)
+   ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week14/Ansible-2.jpg)
 
 10. 列出 ansible 有支援的模組
 
