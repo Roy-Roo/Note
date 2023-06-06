@@ -270,5 +270,5 @@
      Expression : {Centos7-3:ssh_connections.last()}>3
      ```
 
-     ![](D:\大學\大三\大三下\111-2Linux系統自動化運維\note\picture\week13\Zabbix-5.jpg)
+     ![](https://github.com/Roy-Roo/Note/blob/main/111-2Linux%E7%B3%BB%E7%B5%B1%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%8B%E7%B6%AD/note/picture/week13/Zabbix-5.jpg)
 
