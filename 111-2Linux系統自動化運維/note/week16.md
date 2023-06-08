@@ -68,7 +68,7 @@
 
    ```sh
    ---
-   - hosts: app2
+   - hosts: server1
      remote_user: root
      tasks:
        - name: create new file
